@@ -15,11 +15,14 @@
 <a href="https://twitter.com/decisive_gaurav">
   <img align="left" alt="Gaurav Singh Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="https://www.codechef.com/users/incrediblegrs">
+  <img align="left" alt="Gaurav Singh Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
 <br><br>
 
 - :telescope: I'm currently studying BTech in CSE 💻;
 - :hourglass_flowing_sand: Learning MERN;
-- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
+- 💬 I love connecting with different people so if you want any help, I'll be happy to interact with you! 😄 ;
 - 📫 How to reach me: gauravsingh639763@gmail.com;
 - <a href="https://assistant.google.com/services/a/uid/000000e118a5a13c?hl=en-US">
   <b>:gift: Wanna see my google assistant action</b>
