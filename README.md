@@ -24,8 +24,8 @@
 - :hourglass_flowing_sand: Learning MERN;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to interact with you! 😄 ;
 - 📫 How to reach me: gauravsingh639763@gmail.com;
-- <a href="https://assistant.google.com/services/a/uid/000000e118a5a13c?hl=en-US">
-  <b>:gift: Wanna see my google assistant action</b>
+- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleassistant.svg" /> <a href="https://assistant.google.com/services/a/uid/000000e118a5a13c?hl=en-US">
+  <b>Wanna see my google assistant action</b>
 </a>
   
 <br><br><br><br>
@@ -35,7 +35,7 @@
 <br><br><br><br>
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=gaurav639&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav639&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 <br><br>
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" /> <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" /> <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /> <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" /> <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /> <img align="right" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> <img align="right" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> <img align="right" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /> <img align="right" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <br>
 ```
 A man is defined by the purpose of his life
