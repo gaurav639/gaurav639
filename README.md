@@ -21,7 +21,7 @@
 <br><br>
 
 - :telescope: I'm currently studying BTech in CSE 💻;
-- :hourglass_flowing_sand: Learning MERN;
+- :hourglass_flowing_sand: Open to latest tech and non-tech roles;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to interact with you! 😄 ;
 - 📫 How to reach me: gauravsingh639763@gmail.com;
 - <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleassistant.svg" /> <a href="https://assistant.google.com/services/a/uid/000000e118a5a13c?hl=en-US">
