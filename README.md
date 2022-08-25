@@ -6,15 +6,6 @@
 <a href="https://www.linkedin.com/in/gaurav-singh-dev/">
   <img align="left" alt="Gaurav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/gaurav.singh__.__/">
-  <img align="left" alt="Gaurav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100007860522995">
-  <img align="left" alt="Gaurav's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://twitter.com/decisive_gaurav">
-  <img align="left" alt="Gaurav Singh Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.codechef.com/users/incrediblegrs">
   <img align="left" alt="Gaurav Singh Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
@@ -24,9 +15,6 @@
 - :hourglass_flowing_sand: Building toolkit in AI/ML and Data Science;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to interact with you! 😄 ;
 - 📫 How to reach me: gauravsingh639763@gmail.com;
-- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleassistant.svg" /> <a href="https://assistant.google.com/services/a/uid/000000e118a5a13c?hl=en-US">
-  <b>Wanna see my google assistant action</b>
-</a>
   
 <br><br><br><br>
 
