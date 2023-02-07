@@ -18,7 +18,7 @@
   
 <br><br><br><br>
 
-![](https://img.shields.io/badge/Web%20Developer-%7C-blue)  ![](https://img.shields.io/badge/C++%20-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Javascript%20-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/HTML-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/CSS%20-%7C-yellowgreen) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Wireframing%20-%7C-brown) ![](https://img.shields.io/badge/Content%20Writing-%7C-pink)
+![](https://img.shields.io/badge/W%20Developer-%7C-blue)  ![](https://img.shields.io/badge/C++%20-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Javascript%20-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/HTML-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/CSS%20-%7C-yellowgreen) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Wireframing%20-%7C-brown) ![](https://img.shields.io/badge/Content%20Writing-%7C-pink)
 
 <br><br><br><br>
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=gaurav639&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav639&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
