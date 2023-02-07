@@ -18,7 +18,7 @@
   
 <br><br><br><br>
 
-![](https://img.shields.io/badge/Data%20Science-%7C-blue)  ![](https://img.shields.io/badge/Machine%20Learning%20-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Deep%20Learning%20-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/tensorflow%20-%3C%2F%3E-green) ![](https://img.shields.io/badge/keras%20-%3C%2F%3E-yellowgreen) ![](https://img.shields.io/badge/SQL-%20-%3C%2F%3E-orange) ![](https://img.shields.io/badge/Web%20Development%20-%7C-brown) 
+![](https://img.shields.io/badge/Data%20Science-%7C-blue)  ![](https://img.shields.io/badge/Machine%20Learning%20-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Deep%20Learning%20-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/ScikitLearn%20-%3C%2F%3E-violet) ![](https://img.shields.io/badge/tensorflow%20-%3C%2F%3E-green) ![](https://img.shields.io/badge/keras%20-%3C%2F%3E-yellowgreen) ![](https://img.shields.io/badge/SQL-%20-%3C%2F%3E-orange) ![](https://img.shields.io/badge/Web%20Development%20-%7C-brown) 
 
 <br><br><br><br>
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=gaurav639&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav639&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
