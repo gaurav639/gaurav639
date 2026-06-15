@@ -1,20 +1,50 @@
-# 🧠 Gaurav Singh
+# Hi, I'm Gaurav Singh 👋
 
-<p align="center">
-  <strong>AI Engineer & Data Scientist</strong> • Focused on Agentic Workflows & Cognitive Architecture
-</p>
+### Building Production-Grade AI Agents, RAG Systems & LLM Applications
 
-<p align="center">
-  <a href="https://linkedin.com/in/gaurav-singh-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:gsingh.aiml@gmail.com"><img src="https://img.shields.io/badge/Email-gsingh.aiml%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/gaurav639"><img src="https://img.shields.io/badge/GitHub-gaurav639-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+I'm an AI/ML Engineer focused on designing and deploying enterprise-scale AI systems powered by LLMs, Agentic Workflows, Retrieval-Augmented Generation (RAG), and Multi-Agent Architectures.
+
+Over the last few years, I've worked across:
+
+* 🤖 Agentic AI Systems
+* 🧠 Large Language Models (LLMs)
+* 🔍 RAG & Hybrid Search
+* 🕸️ Multi-Agent Workflows
+* ☁️ GCP & Vertex AI
+* 📊 Machine Learning & NLP
+* ⚡ Production AI Deployments
+
+## 🛠️ Tech Stack
+
+### AI & LLM Engineering
+
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-purple?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge)
+
+### Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
+
+### Data & Cloud
+
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
+
+## 🤝 Let's Connect
+
+📧 [gsingh.aiml@gmail.com](mailto:gsingh.aiml@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/gaurav-singh-dev
+
+💻 GitHub: github.com/gaurav639
 
 ---
 
-```python
-class FocusArea:
-    def __init__(self):
-        self.core = ["Agentic AI", "Multi-Agent Systems", "Advanced RAG"] #
-        self.toolkit = ["LangGraph", "LangChain", "Vertex AI", "GCP", "Python"] #[cite: 1]
-        self.mission = "Finding order in chaos through deterministic machine intelligence."
+> "The future belongs to systems that can reason, retrieve, plan, and act."
